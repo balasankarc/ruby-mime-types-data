@@ -1,3 +1,1 @@
-# Examples:
-# FIXME: data/ dir found in source. Consider installing it somewhere.
-# data/* /usr/share/ruby-mime-types-data/
+data usr/share/ruby-mime-types-data/
