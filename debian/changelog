@@ -1,5 +1,5 @@
-ruby-mime-types-data (3.2015.1120-1) UNRELEASED; urgency=medium
+ruby-mime-types-data (3.2015.1120-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #808577)
 
- -- Balasankar C <balasankarc@autistici.org>  Mon, 21 Dec 2015 12:45:22 +0530
+ -- Balasankar C <balasankarc@autistici.org>  Mon, 30 Nov 2015 18:05:33 +0530
